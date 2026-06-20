@@ -5,15 +5,15 @@ description: Use this reusable WV Private brand/design skill when creating, exte
 
 # WV Private Design System
 
-Use this skill as the reusable WV Private brand and design-system guide for any design, UI, or product work that should align with the WV Private visual language.
+Use this skill as a reusable WV Private brand/design skill for any design, UI, visual asset, component, layout, or product experience that should align with the WV Private design system.
 
-## Workflow
+## Instructions
 
-1. Read `README.md` first to understand the project, available examples, and repository conventions.
-2. Explore the repository for existing WV Private brand/design resources before creating anything new:
-   - Assets: images, icons, fonts, illustrations, logos, and other reusable visual resources.
-   - Tokens: colors, typography, spacing, radii, shadows, motion, and other design constants.
-   - Components: existing UI components, examples, screens, patterns, and reusable views.
-3. Reuse established assets, tokens, and components whenever possible. Extend existing patterns instead of inventing parallel ones.
-4. Preserve WV Private brand consistency across tone, hierarchy, color, typography, spacing, interaction states, and accessibility.
-5. If invoked without specific guidance about what to build, ask the user what WV Private design artifact, screen, component, or asset they want created or updated before making changes.
+1. Read `README.md` first to understand the repository, project context, available examples, and any setup or contribution conventions.
+2. Explore existing WV Private design-system resources before creating new work:
+   - Assets: images, icons, fonts, illustrations, logos, photography, and other reusable visual resources.
+   - Tokens: colors, typography, spacing, sizing, radii, shadows, borders, motion, and other design constants.
+   - Components: reusable UI components, screens, examples, layouts, states, patterns, and interaction models.
+3. Treat discovered WV Private assets, tokens, and components as the source of truth. Reuse and extend them rather than inventing parallel visual language.
+4. Preserve WV Private brand consistency across tone, hierarchy, color, typography, spacing, iconography, interaction states, responsiveness, and accessibility.
+5. When invoked without specific guidance, ask the user what to build or update before making changes. Clarify whether they need a screen, component, asset, token, layout, review, or other WV Private design artifact.
