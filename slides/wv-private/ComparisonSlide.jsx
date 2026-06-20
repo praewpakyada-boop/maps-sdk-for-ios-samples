@@ -1,6 +1,7 @@
 import '../../tokens/colors.css';
 import '../../tokens/typography.css';
 import './wv-private.css';
+import logo from '../../assets/logos/wv-private-mark.svg';
 
 const columns = [
   { title: 'Standard mapping', items: ['Broad consumer context', 'Generic ETA language', 'Reactive support moments'] },
@@ -10,7 +11,7 @@ const columns = [
 export default function ComparisonSlide() {
   return (
     <main className="wv-slide wv-comparison-slide">
-      <img className="wv-logo" src="../../assets/logos/wv-private-mark.svg" alt="WV Private" />
+      <img className="wv-logo" src={logo} alt="WV Private" />
       <p className="wv-eyebrow">Service difference</p>
       <h1>Make every route feel intentionally managed.</h1>
       <section className="wv-columns">
