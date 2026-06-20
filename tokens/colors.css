@@ -1,0 +1,14 @@
+:root {
+  --wv-navy-950: #07172f;
+  --wv-navy-900: #0b2142;
+  --wv-blue-700: #1457d9;
+  --wv-blue-500: #2f7df6;
+  --wv-cyan-300: #72d4ff;
+  --wv-gold-400: #f3c86b;
+  --wv-ink: #101828;
+  --wv-slate-600: #5b667a;
+  --wv-slate-200: #d8e0ee;
+  --wv-white: #ffffff;
+  --wv-glass: rgba(255, 255, 255, 0.12);
+  --wv-shadow: rgba(2, 12, 27, 0.28);
+}
